@@ -11,3 +11,13 @@ code .
 2) uv init
 
 3) uv sync  // will create a virtual env
+
+4) git add .
+
+5) git commit -m "initial commit"
+
+6) uv add langchain
+
+7) source .venv/bin/activate  // only for MAC
+
+8) touch .env
